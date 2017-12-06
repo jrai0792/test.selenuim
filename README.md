@@ -9,3 +9,8 @@ Assert that the cart has the correct shoe selected in previous step (Based on na
 
 Framework used:
 Selenium/JAVA/TestNG/MAVEN.
+
+
+Please provide chromedriver.exe path in AppTest class to run program.
+
+To run : mvn clean install
