@@ -21,7 +21,7 @@ import org.testng.annotations.Test;
 public class AppTest
 {
 	private static final String CHROME_DRIVER_KEY ="webdriver.chrome.driver";
-	//give your chrome driver path
+	//give your chromedriver.exe path
 	private static final String CHROME_DRIVER_PATH = "";
 	//give number to be selected from listing
 	private static final String SELECT_SHOE_FROM_LISTING = "9"; 
