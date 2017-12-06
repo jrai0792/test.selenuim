@@ -11,7 +11,8 @@ Framework used:
 Selenium/JAVA/TestNG/MAVEN.
 
 
-Please provide chromedriver.exe path in AppTest class to run program. example:
-private static final String CHROME_DRIVER_PATH = "//download//..//chromedriver";
+Please provide chromedriver.exe path in AppTest class to run program. 
+
+example:  private static final String CHROME_DRIVER_PATH = "//download//..//chromedriver";
 
 To run : mvn clean install
